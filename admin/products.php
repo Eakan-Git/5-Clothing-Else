@@ -171,7 +171,7 @@
             </div>
             <div class="col-12">
               <div class="form-group">
-                <label>Product Keywords <small>(eg: apple, iphone, mobile)</small></label>
+                <label>Product Keywords <small>(eg: Nike, Gucci, T-Shirt)</small></label>
                 <input type="text" name="e_product_keywords" class="form-control" placeholder="Enter Product Keywords">
               </div>
             </div>
@@ -185,7 +185,7 @@
             <input type="hidden" name="pid">
             <input type="hidden" name="edit_product" value="1">
             <div class="col-12">
-              <button type="button" class="btn btn-primary submit-edit-product">Add Product</button>
+              <button type="button" class="btn btn-primary submit-edit-product">Update Product</button>
             </div>
           </div>
           

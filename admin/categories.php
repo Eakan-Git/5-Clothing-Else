@@ -26,15 +26,6 @@
             </tr>
           </thead>
           <tbody id="category_list">
-            <!-- <tr>
-              <td>1</td>
-              <td>ABC</td>
-              <td>FDGR.JPG</td>
-              <td>122</td>
-              <td>eLECTRONCS</td>
-              <td>aPPLE</td>
-              <td><a class="btn btn-sm btn-info"></a><a class="btn btn-sm btn-danger">Delete</a></td>
-            </tr> -->
           </tbody>
         </table>
       </div>
@@ -60,7 +51,7 @@
         		<div class="col-12">
         			<div class="form-group">
 		        		<label>Category Name</label>
-		        		<input type="text" name="cat_title" class="form-control" placeholder="Enter Brand Name">
+		        		<input type="text" name="cat_title" class="form-control" placeholder="Enter Category Name">
 		        	</div>
         		</div>
         		<input type="hidden" name="add_category" value="1">

@@ -26,15 +26,6 @@
             </tr>
           </thead>
           <tbody id="brand_list">
-            <!-- <tr>
-              <td>1</td>
-              <td>ABC</td>
-              <td>FDGR.JPG</td>
-              <td>122</td>
-              <td>eLECTRONCS</td>
-              <td>aPPLE</td>
-              <td><a class="btn btn-sm btn-info"></a><a class="btn btn-sm btn-danger">Delete</a></td>
-            </tr> -->
           </tbody>
         </table>
       </div>
@@ -65,7 +56,7 @@
         		</div>
         		<input type="hidden" name="add_brand" value="1">
         		<div class="col-12">
-        			<button type="button" class="btn btn-primary add-brand">Add Product</button>
+        			<button type="button" class="btn btn-primary add-brand">Add Brand</button>
         		</div>
         	</div>
         	
