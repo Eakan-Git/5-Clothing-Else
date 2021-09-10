@@ -63,6 +63,7 @@ require "config/constants.php";
 							<div class="col-md-2 col-xs-2"><b>Price in <?php echo CURRENCY; ?></b></div>
 						</div>
 						<div id="cart_checkout"></div>
+						
 						</div> 
 					</div>
 					<div class="panel-footer"></div>
